@@ -1,4 +1,4 @@
 <Response>
-  <Play loop="10">https://freshiivy1.github.io/callverify-twiml/twiml/tone.wav</Play>
+  <Pause length="60"/>
   <Redirect method="GET">https://freshiivy1.github.io/callverify-twiml/twiml/ready.xml</Redirect>
 </Response>
