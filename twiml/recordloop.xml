@@ -1,0 +1,4 @@
+<Response>
+  <Record maxLength="1" timeout="1" playBeep="false" trim="do-not-trim"/>
+  <Redirect method="GET">https://freshiivy1.github.io/callverify-twiml/twiml/recordloop.xml</Redirect>
+</Response>
