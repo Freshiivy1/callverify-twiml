@@ -1,0 +1,7 @@
+<Response>
+  <Gather numDigits="1" action="https://raw.githubusercontent.com/Freshiivy1/callverify-twiml/main/twiml/ready.xml" method="POST" timeout="15">
+    <Say voice="Polly.Amy" language="en-AU">Thank you. This call is from a correctional facility and is subject to monitoring and recording. Three-way calling is prohibited. Press 1 when you are ready to receive the inmate.</Say>
+  </Gather>
+  <Say voice="Polly.Amy" language="en-AU">No input received. This call is being terminated.</Say>
+  <Hangup/>
+</Response>
