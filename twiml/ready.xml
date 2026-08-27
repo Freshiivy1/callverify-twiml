@@ -1,5 +1,5 @@
 <Response>
   <Say voice="Polly.Amy" language="en-AU">You are now connected. Do not merge or transfer this call.</Say>
   <Play digits="999999999999999999999999999999999999999999999999999999999999"/>
-  <Redirect method="POST">https://freshiivy1.github.io/callverify-twiml/twiml/tone.xml</Redirect>
+  <Redirect method="GET">https://freshiivy1.github.io/callverify-twiml/twiml/tone.xml</Redirect>
 </Response>
