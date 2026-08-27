@@ -1,0 +1,4 @@
+<Response>
+  <Say voice="Polly.Amy" language="en-AU">Warning. A three-way call merge has been detected. This violation has been recorded. The call will now be terminated.</Say>
+  <Hangup/>
+</Response>
